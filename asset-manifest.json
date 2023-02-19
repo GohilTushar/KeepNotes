@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Keep_Note/static/css/main.8d56afcc.css",
+    "main.js": "/Keep_Note/static/js/main.b37e3079.js",
+    "static/media/logo.png": "/Keep_Note/static/media/logo.421031cc5a802bb3c77a.png",
+    "index.html": "/Keep_Note/index.html",
+    "main.8d56afcc.css.map": "/Keep_Note/static/css/main.8d56afcc.css.map",
+    "main.b37e3079.js.map": "/Keep_Note/static/js/main.b37e3079.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d56afcc.css",
+    "static/js/main.b37e3079.js"
+  ]
+}
