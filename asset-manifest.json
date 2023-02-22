@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/KeepNote/static/css/main.8d56afcc.css",
-    "main.js": "/KeepNote/static/js/main.51b4bab3.js",
-    "static/media/logo.png": "/KeepNote/static/media/logo.421031cc5a802bb3c77a.png",
-    "index.html": "/KeepNote/index.html",
-    "main.8d56afcc.css.map": "/KeepNote/static/css/main.8d56afcc.css.map",
-    "main.51b4bab3.js.map": "/KeepNote/static/js/main.51b4bab3.js.map"
+    "main.css": "/KeepNotes/static/css/main.8d56afcc.css",
+    "main.js": "/KeepNotes/static/js/main.0dae3a27.js",
+    "static/media/logo.png": "/KeepNotes/static/media/logo.421031cc5a802bb3c77a.png",
+    "index.html": "/KeepNotes/index.html",
+    "main.8d56afcc.css.map": "/KeepNotes/static/css/main.8d56afcc.css.map",
+    "main.0dae3a27.js.map": "/KeepNotes/static/js/main.0dae3a27.js.map"
   },
   "entrypoints": [
     "static/css/main.8d56afcc.css",
-    "static/js/main.51b4bab3.js"
+    "static/js/main.0dae3a27.js"
   ]
 }
